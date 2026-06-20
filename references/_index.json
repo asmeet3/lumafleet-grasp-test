@@ -1,0 +1,62 @@
+{
+  "entries": {
+    "confluence-163939": {
+      "title": "Overview",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/~712020d08fa6ee9edf488482f9c6a2c44d8bce/overview",
+      "updated_at": "2026-06-17T14:48:55.875000+00:00",
+      "path": "confluence/Overview.md"
+    },
+    "confluence-163941": {
+      "title": "Getting started in Confluence",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/~712020d08fa6ee9edf488482f9c6a2c44d8bce/pages/163941/Getting+started+in+Confluence",
+      "updated_at": "2026-06-17T14:48:56.244000+00:00",
+      "path": "confluence/Getting_started_in_Confluence.md"
+    },
+    "confluence-557165": {
+      "title": "LumaFleet Engineering Home",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/overview",
+      "updated_at": "2026-06-17T15:21:22.845000+00:00",
+      "path": "confluence/LumaFleet_Engineering_Home.md"
+    },
+    "confluence-589825": {
+      "title": "LumaRoute Product & Engineering Hub",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/589825/LumaRoute+Product+Engineering+Hub",
+      "updated_at": "2026-06-17T15:24:39.984000+00:00",
+      "path": "confluence/LumaRoute_Product_&_Engineering_Hub.md"
+    },
+    "confluence-720897": {
+      "title": "LumaRoute Jira and Confluence Page Tree",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/720897/LumaRoute+Jira+and+Confluence+Page+Tree",
+      "updated_at": "2026-06-17T15:22:09.414000+00:00",
+      "path": "confluence/LumaRoute_Jira_and_Confluence_Page_Tree.md"
+    },
+    "confluence-753665": {
+      "title": "Jira Import Dataset",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/753665/Jira+Import+Dataset",
+      "updated_at": "2026-06-17T15:22:10.520000+00:00",
+      "path": "confluence/Jira_Import_Dataset.md"
+    },
+    "confluence-950273": {
+      "title": "Service Ownership Matrix",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/950273/Service+Ownership+Matrix",
+      "updated_at": "2026-06-17T15:23:10.168000+00:00",
+      "path": "confluence/Service_Ownership_Matrix.md"
+    },
+    "confluence-1081345": {
+      "title": "Observability Dashboard Guide",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/1081345/Observability+Dashboard+Guide",
+      "updated_at": "2026-06-17T15:23:21.172000+00:00",
+      "path": "confluence/Observability_Dashboard_Guide.md"
+    }
+  },
+  "count": 8,
+  "last_updated": "2026-06-20T13:14:10.370360+00:00"
+}

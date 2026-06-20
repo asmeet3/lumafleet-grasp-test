@@ -1,0 +1,118 @@
+{
+  "entries": {
+    "confluence-131074": {
+      "title": "Bug Triage Log",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/131074/Bug+Triage+Log",
+      "updated_at": "2026-06-17T15:23:19.397000+00:00",
+      "path": "confluence/Bug_Triage_Log.md"
+    },
+    "jira-LRDP-14": {
+      "title": "[LRDP-14] Add tenant-aware API contract tests",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-14",
+      "updated_at": "2026-06-17T20:50:56.804000+05:30",
+      "path": "jira/[LRDP-14]_Add_tenant-aware_API_contract_tests.md"
+    },
+    "confluence-720913": {
+      "title": "Bug Log Dataset",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/720913/Bug+Log+Dataset",
+      "updated_at": "2026-06-17T15:22:12.371000+00:00",
+      "path": "confluence/Bug_Log_Dataset.md"
+    },
+    "confluence-786433": {
+      "title": "QA Test Case Catalog Dataset",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/786433/QA+Test+Case+Catalog+Dataset",
+      "updated_at": "2026-06-17T15:22:11.443000+00:00",
+      "path": "confluence/QA_Test_Case_Catalog_Dataset.md"
+    },
+    "jira-LRDP-25": {
+      "title": "[LRDP-25] Add synthetic telemetry seed data for QA",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-25",
+      "updated_at": "2026-06-17T20:51:11.542000+05:30",
+      "path": "jira/[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md"
+    },
+    "jira-LRDP-28": {
+      "title": "[LRDP-28] Temperature alert remains open after acknowledgement refresh",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-28",
+      "updated_at": "2026-06-17T20:51:15.317000+05:30",
+      "path": "jira/[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md"
+    },
+    "jira-LRDP-29": {
+      "title": "[LRDP-29] Delay notification retry duplicates SMS after provider timeout",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-29",
+      "updated_at": "2026-06-17T20:51:16.547000+05:30",
+      "path": "jira/[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md"
+    },
+    "jira-LRDP-31": {
+      "title": "[LRDP-31] Route health card shows stale ETA after manual route edit",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-31",
+      "updated_at": "2026-06-17T20:51:19.333000+05:30",
+      "path": "jira/[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md"
+    },
+    "jira-LRDP-32": {
+      "title": "[LRDP-32] Barcode scan accepts lowercase shipment prefix for another tenant",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-32",
+      "updated_at": "2026-06-17T20:51:20.774000+05:30",
+      "path": "jira/[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md"
+    },
+    "jira-LRDP-33": {
+      "title": "[LRDP-33] Temperature timeline renders points one hour early during daylight savings transition",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-33",
+      "updated_at": "2026-06-17T20:54:28.998000+05:30",
+      "path": "jira/[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md"
+    },
+    "confluence-1048577": {
+      "title": "Test Case Catalog",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/1048577/Test+Case+Catalog",
+      "updated_at": "2026-06-17T15:23:18.294000+00:00",
+      "path": "confluence/Test_Case_Catalog.md"
+    },
+    "jira-LRDP-34": {
+      "title": "[LRDP-34] Exception queue owner filter clears when browser back button is used",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-34",
+      "updated_at": "2026-06-17T20:54:30.392000+05:30",
+      "path": "jira/[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md"
+    },
+    "jira-LRDP-35": {
+      "title": "[LRDP-35] Offline sync retries indefinitely after a 409 conflict",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-35",
+      "updated_at": "2026-06-17T20:54:31.825000+05:30",
+      "path": "jira/[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md"
+    },
+    "jira-LRDP-36": {
+      "title": "[LRDP-36] Resolution note allows only 120 characters in UI despite API supporting 500",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-36",
+      "updated_at": "2026-06-17T20:54:33.680000+05:30",
+      "path": "jira/[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md"
+    },
+    "jira-LRDP-37": {
+      "title": "[LRDP-37] Expired ETA portal token displays generic 500 error page",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-37",
+      "updated_at": "2026-06-17T20:54:35.421000+05:30",
+      "path": "jira/[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md"
+    },
+    "jira-LRDP-38": {
+      "title": "[LRDP-38] Compliance export omits acknowledgement user display name",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-38",
+      "updated_at": "2026-06-17T20:54:37.142000+05:30",
+      "path": "jira/[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    }
+  },
+  "count": 16,
+  "last_updated": "2026-06-20T13:14:17.108392+00:00"
+}

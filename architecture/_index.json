@@ -1,0 +1,34 @@
+{
+  "entries": {
+    "confluence-524290": {
+      "title": "API & Integration Overview",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/524290/API+Integration+Overview",
+      "updated_at": "2026-06-17T15:23:11.051000+00:00",
+      "path": "confluence/API_&_Integration_Overview.md"
+    },
+    "confluence-688129": {
+      "title": "LumaRoute Software Architecture",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/688129/LumaRoute+Software+Architecture",
+      "updated_at": "2026-06-17T15:22:07.490000+00:00",
+      "path": "confluence/LumaRoute_Software_Architecture.md"
+    },
+    "confluence-884753": {
+      "title": "System Architecture",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/884753/System+Architecture",
+      "updated_at": "2026-06-17T15:23:09.218000+00:00",
+      "path": "confluence/System_Architecture.md"
+    },
+    "confluence-983041": {
+      "title": "Data Model Overview",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/983041/Data+Model+Overview",
+      "updated_at": "2026-06-17T15:23:11.931000+00:00",
+      "path": "confluence/Data_Model_Overview.md"
+    }
+  },
+  "count": 4,
+  "last_updated": "2026-06-20T13:14:00.387089+00:00"
+}

@@ -1,0 +1,202 @@
+{
+  "entries": {
+    "jira-LRDP-1": {
+      "title": "[LRDP-1] Route Optimization MVP",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-1",
+      "updated_at": "2026-06-17T20:50:39.323000+05:30",
+      "path": "jira/[LRDP-1]_Route_Optimization_MVP.md"
+    },
+    "jira-LRDP-2": {
+      "title": "[LRDP-2] Driver Mobile Workflow",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-2",
+      "updated_at": "2026-06-17T20:50:40.757000+05:30",
+      "path": "jira/[LRDP-2]_Driver_Mobile_Workflow.md"
+    },
+    "jira-LRDP-3": {
+      "title": "[LRDP-3] Temperature Compliance Monitoring",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-3",
+      "updated_at": "2026-06-17T20:50:42.088000+05:30",
+      "path": "jira/[LRDP-3]_Temperature_Compliance_Monitoring.md"
+    },
+    "jira-LRDP-4": {
+      "title": "[LRDP-4] Customer ETA Portal",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-4",
+      "updated_at": "2026-06-17T20:50:43.282000+05:30",
+      "path": "jira/[LRDP-4]_Customer_ETA_Portal.md"
+    },
+    "confluence-196764": {
+      "title": "Template - Product requirements",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/SD/pages/196764/Template+-+Product+requirements",
+      "updated_at": "2026-06-17T14:49:00.703000+00:00",
+      "path": "confluence/Template_-_Product_requirements.md"
+    },
+    "jira-LRDP-5": {
+      "title": "[LRDP-5] Dispatch Operations Dashboard",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-5",
+      "updated_at": "2026-06-17T20:50:44.859000+05:30",
+      "path": "jira/[LRDP-5]_Dispatch_Operations_Dashboard.md"
+    },
+    "jira-LRDP-6": {
+      "title": "[LRDP-6] Import daily route manifest with shipment temperature requirements",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-6",
+      "updated_at": "2026-06-17T20:50:46.114000+05:30",
+      "path": "jira/[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md"
+    },
+    "jira-LRDP-7": {
+      "title": "[LRDP-7] Calculate route score using service windows and cold-chain risk",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-7",
+      "updated_at": "2026-06-17T20:50:47.415000+05:30",
+      "path": "jira/[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md"
+    },
+    "jira-LRDP-8": {
+      "title": "[LRDP-8] Compare optimized route with dispatcher manual edits",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-8",
+      "updated_at": "2026-06-17T20:50:48.711000+05:30",
+      "path": "jira/[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md"
+    },
+    "jira-LRDP-9": {
+      "title": "[LRDP-9] Display today's route and stop checklist in driver mobile app",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-9",
+      "updated_at": "2026-06-17T20:50:49.906000+05:30",
+      "path": "jira/[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md"
+    },
+    "jira-LRDP-10": {
+      "title": "[LRDP-10] Capture barcode scan proof of delivery",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-10",
+      "updated_at": "2026-06-17T20:50:51.278000+05:30",
+      "path": "jira/[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md"
+    },
+    "jira-LRDP-11": {
+      "title": "[LRDP-11] Sync driver task updates after offline period",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-11",
+      "updated_at": "2026-06-17T20:50:52.655000+05:30",
+      "path": "jira/[LRDP-11]_Sync_driver_task_updates_after_offline_period.md"
+    },
+    "jira-LRDP-12": {
+      "title": "[LRDP-12] Add mobile sync status indicator",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-12",
+      "updated_at": "2026-06-17T20:50:53.910000+05:30",
+      "path": "jira/[LRDP-12]_Add_mobile_sync_status_indicator.md"
+    },
+    "jira-LRDP-13": {
+      "title": "[LRDP-13] Create stop task local persistence model",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-13",
+      "updated_at": "2026-06-17T20:50:55.338000+05:30",
+      "path": "jira/[LRDP-13]_Create_stop_task_local_persistence_model.md"
+    },
+    "jira-LRDP-15": {
+      "title": "[LRDP-15] Ingest temperature sensor readings for active routes",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-15",
+      "updated_at": "2026-06-17T20:50:58.175000+05:30",
+      "path": "jira/[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md"
+    },
+    "jira-LRDP-16": {
+      "title": "[LRDP-16] Show route temperature timeline in dispatch dashboard",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-16",
+      "updated_at": "2026-06-17T20:50:59.410000+05:30",
+      "path": "jira/[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md"
+    },
+    "jira-LRDP-17": {
+      "title": "[LRDP-17] Create temperature excursion alert with acknowledgement workflow",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-17",
+      "updated_at": "2026-06-17T20:51:00.843000+05:30",
+      "path": "jira/[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md"
+    },
+    "jira-LRDP-18": {
+      "title": "[LRDP-18] Add telemetry idempotency key handling",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-18",
+      "updated_at": "2026-06-17T20:51:02.327000+05:30",
+      "path": "jira/[LRDP-18]_Add_telemetry_idempotency_key_handling.md"
+    },
+    "jira-LRDP-19": {
+      "title": "[LRDP-19] Generate customer ETA portal link per stop",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-19",
+      "updated_at": "2026-06-17T20:51:03.638000+05:30",
+      "path": "jira/[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md"
+    },
+    "jira-LRDP-20": {
+      "title": "[LRDP-20] Update ETA when route delay exceeds threshold",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-20",
+      "updated_at": "2026-06-17T20:51:04.889000+05:30",
+      "path": "jira/[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md"
+    },
+    "jira-LRDP-21": {
+      "title": "[LRDP-21] Send customer delay notification with reason code",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-21",
+      "updated_at": "2026-06-17T20:51:06.086000+05:30",
+      "path": "jira/[LRDP-21]_Send_customer_delay_notification_with_reason_code.md"
+    },
+    "jira-LRDP-22": {
+      "title": "[LRDP-22] Display active route health cards on dispatch dashboard",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-22",
+      "updated_at": "2026-06-17T20:51:07.454000+05:30",
+      "path": "jira/[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md"
+    },
+    "jira-LRDP-23": {
+      "title": "[LRDP-23] Add exception queue filters for severity and owner",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-23",
+      "updated_at": "2026-06-17T20:51:08.926000+05:30",
+      "path": "jira/[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md"
+    },
+    "jira-LRDP-24": {
+      "title": "[LRDP-24] Assign exception to dispatcher and record resolution note",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-24",
+      "updated_at": "2026-06-17T20:51:10.257000+05:30",
+      "path": "jira/[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md"
+    },
+    "jira-LRDP-26": {
+      "title": "[LRDP-26] Create observability dashboard for telemetry freshness",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-26",
+      "updated_at": "2026-06-17T20:51:12.740000+05:30",
+      "path": "jira/[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md"
+    },
+    "jira-LRDP-27": {
+      "title": "[LRDP-27] Add role permission matrix for dispatch and compliance users",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-27",
+      "updated_at": "2026-06-17T20:51:13.961000+05:30",
+      "path": "jira/[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md"
+    },
+    "confluence-884737": {
+      "title": "Personas and User Journeys",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/884737/Personas+and+User+Journeys",
+      "updated_at": "2026-06-17T15:23:07.329000+00:00",
+      "path": "confluence/Personas_and_User_Journeys.md"
+    },
+    "jira-LRDP-30": {
+      "title": "[LRDP-30] Export route compliance report as CSV",
+      "source": "jira",
+      "url": "https://erfwagvbe.atlassian.net/browse/LRDP-30",
+      "updated_at": "2026-06-17T20:51:17.887000+05:30",
+      "path": "jira/[LRDP-30]_Export_route_compliance_report_as_CSV.md"
+    }
+  },
+  "count": 28,
+  "last_updated": "2026-06-20T13:13:57.914670+00:00"
+}

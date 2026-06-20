@@ -1,0 +1,55 @@
+{
+  "entries": {
+    "confluence-65707": {
+      "title": "QA Strategy",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/65707/QA+Strategy",
+      "updated_at": "2026-06-17T15:23:17.376000+00:00",
+      "path": "confluence/QA_Strategy.md"
+    },
+    "confluence-163975": {
+      "title": "LumaRoute Sprint Plan",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/163975/LumaRoute+Sprint+Plan",
+      "updated_at": "2026-06-17T15:22:08.481000+00:00",
+      "path": "confluence/LumaRoute_Sprint_Plan.md"
+    },
+    "confluence-655361": {
+      "title": "LumaFleet Company Overview",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/655361/LumaFleet+Company+Overview",
+      "updated_at": "2026-06-17T15:22:06.540000+00:00",
+      "path": "confluence/LumaFleet_Company_Overview.md"
+    },
+    "confluence-819208": {
+      "title": "Sprint 14 Plan",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/819208/Sprint+14+Plan",
+      "updated_at": "2026-06-17T15:23:12.972000+00:00",
+      "path": "confluence/Sprint_14_Plan.md"
+    },
+    "confluence-851969": {
+      "title": "Product Vision & North Star Metrics",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/851969/Product+Vision+North+Star+Metrics",
+      "updated_at": "2026-06-17T15:23:06.463000+00:00",
+      "path": "confluence/Product_Vision_&_North_Star_Metrics.md"
+    },
+    "confluence-917505": {
+      "title": "Release Roadmap",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/917505/Release+Roadmap",
+      "updated_at": "2026-06-17T15:23:08.280000+00:00",
+      "path": "confluence/Release_Roadmap.md"
+    },
+    "confluence-1015809": {
+      "title": "Sprint 15 Plan",
+      "source": "confluence",
+      "url": "https://erfwagvbe.atlassian.net/wiki/spaces/LFE/pages/1015809/Sprint+15+Plan",
+      "updated_at": "2026-06-17T15:23:15.539000+00:00",
+      "path": "confluence/Sprint_15_Plan.md"
+    }
+  },
+  "count": 7,
+  "last_updated": "2026-06-20T13:14:02.028949+00:00"
+}
