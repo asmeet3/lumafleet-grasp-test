@@ -1,0 +1,3 @@
+# Slack connector config
+source: slack
+bot_token: ""

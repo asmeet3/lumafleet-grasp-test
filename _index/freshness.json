@@ -1,0 +1,427 @@
+{
+  "registry": {
+    "confluence-163939": {
+      "path": "knowledge/people/2026-Overview.md",
+      "last_verified": "2026-06-28T19:14:47.319669+00:00",
+      "updated_at": "2026-06-17T14:48:55.875000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-1": {
+      "path": "knowledge/projects/2026-[LRDP-1]_Route_Optimization_MVP.md",
+      "last_verified": "2026-06-28T19:14:48.965715+00:00",
+      "updated_at": "2026-06-17T20:50:39.323000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-2": {
+      "path": "knowledge/projects/2026-[LRDP-2]_Driver_Mobile_Workflow.md",
+      "last_verified": "2026-06-28T19:14:50.773684+00:00",
+      "updated_at": "2026-06-17T20:50:40.757000+05:30",
+      "owner": ""
+    },
+    "confluence-163941": {
+      "path": "knowledge/topics/general/2026-Getting_started_in_Confluence.md",
+      "last_verified": "2026-06-28T19:14:52.456215+00:00",
+      "updated_at": "2026-06-17T14:48:56.244000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-3": {
+      "path": "knowledge/projects/2026-[LRDP-3]_Temperature_Compliance_Monitoring.md",
+      "last_verified": "2026-06-28T19:14:54.897212+00:00",
+      "updated_at": "2026-06-17T20:50:42.088000+05:30",
+      "owner": ""
+    },
+    "confluence-196724": {
+      "path": "knowledge/topics/general/2026-Software_Development.md",
+      "last_verified": "2026-06-28T19:14:56.480535+00:00",
+      "updated_at": "2026-06-17T14:49:01.030000+00:00",
+      "owner": ""
+    },
+    "confluence-196764": {
+      "path": "knowledge/projects/2026-Template_-_Product_requirements.md",
+      "last_verified": "2026-06-28T19:14:58.754988+00:00",
+      "updated_at": "2026-06-17T14:49:00.703000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-4": {
+      "path": "knowledge/projects/2026-[LRDP-4]_Customer_ETA_Portal.md",
+      "last_verified": "2026-06-28T19:14:59.862766+00:00",
+      "updated_at": "2026-06-17T20:50:43.282000+05:30",
+      "owner": ""
+    },
+    "confluence-196777": {
+      "path": "knowledge/decisions/2026-Template_-_Meeting_notes.md",
+      "last_verified": "2026-06-28T19:15:01.553778+00:00",
+      "updated_at": "2026-06-17T14:49:00.808000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-5": {
+      "path": "knowledge/projects/2026-[LRDP-5]_Dispatch_Operations_Dashboard.md",
+      "last_verified": "2026-06-28T19:15:03.394980+00:00",
+      "updated_at": "2026-06-17T20:50:44.859000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-6": {
+      "path": "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md",
+      "last_verified": "2026-06-28T19:15:05.020452+00:00",
+      "updated_at": "2026-06-17T20:50:46.114000+05:30",
+      "owner": ""
+    },
+    "confluence-196790": {
+      "path": "knowledge/decisions/2026-Template_-_Decision_documentation.md",
+      "last_verified": "2026-06-28T19:15:06.269575+00:00",
+      "updated_at": "2026-06-17T14:49:00.915000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-7": {
+      "path": "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md",
+      "last_verified": "2026-06-28T19:15:08.911404+00:00",
+      "updated_at": "2026-06-17T20:50:47.415000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-8": {
+      "path": "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md",
+      "last_verified": "2026-06-28T19:15:10.726801+00:00",
+      "updated_at": "2026-06-17T20:50:48.711000+05:30",
+      "owner": ""
+    },
+    "confluence-65707": {
+      "path": "knowledge/processes/2026-QA_Strategy.md",
+      "last_verified": "2026-06-28T19:15:12.401501+00:00",
+      "updated_at": "2026-06-17T15:23:17.376000+00:00",
+      "owner": ""
+    },
+    "confluence-131074": {
+      "path": "knowledge/processes/2026-Bug_Triage_Log.md",
+      "last_verified": "2026-06-28T19:15:14.401225+00:00",
+      "updated_at": "2026-06-17T15:23:19.397000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-9": {
+      "path": "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md",
+      "last_verified": "2026-06-28T19:15:15.342983+00:00",
+      "updated_at": "2026-06-17T20:50:49.906000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-10": {
+      "path": "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md",
+      "last_verified": "2026-06-28T19:15:17.441660+00:00",
+      "updated_at": "2026-06-17T20:50:51.278000+05:30",
+      "owner": ""
+    },
+    "confluence-163975": {
+      "path": "knowledge/projects/2026-LumaRoute_Sprint_Plan.md",
+      "last_verified": "2026-06-28T19:15:18.608547+00:00",
+      "updated_at": "2026-06-17T15:22:08.481000+00:00",
+      "owner": ""
+    },
+    "confluence-491522": {
+      "path": "knowledge/decisions/2026-Sprint_14_Review_&_Retro.md",
+      "last_verified": "2026-06-28T19:15:21.315167+00:00",
+      "updated_at": "2026-06-17T15:23:14.454000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-11": {
+      "path": "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md",
+      "last_verified": "2026-06-28T19:15:22.565753+00:00",
+      "updated_at": "2026-06-17T20:50:52.655000+05:30",
+      "owner": ""
+    },
+    "confluence-524290": {
+      "path": "knowledge/topics/architecture/2026-API_&_Integration_Overview.md",
+      "last_verified": "2026-06-28T19:15:24.881430+00:00",
+      "updated_at": "2026-06-17T15:23:11.051000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-12": {
+      "path": "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md",
+      "last_verified": "2026-06-28T19:15:25.764118+00:00",
+      "updated_at": "2026-06-17T20:50:53.910000+05:30",
+      "owner": ""
+    },
+    "confluence-557165": {
+      "path": "knowledge/topics/general/2026-LumaFleet_Engineering_Home.md",
+      "last_verified": "2026-06-28T19:15:27.705919+00:00",
+      "updated_at": "2026-06-17T15:21:22.845000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-13": {
+      "path": "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md",
+      "last_verified": "2026-06-28T19:15:29.480366+00:00",
+      "updated_at": "2026-06-17T20:50:55.338000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-14": {
+      "path": "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md",
+      "last_verified": "2026-06-28T19:15:31.396819+00:00",
+      "updated_at": "2026-06-17T20:50:56.804000+05:30",
+      "owner": ""
+    },
+    "confluence-557251": {
+      "path": "knowledge/decisions/2026-Sprint_15_Review_&_Retro.md",
+      "last_verified": "2026-06-28T19:15:32.947568+00:00",
+      "updated_at": "2026-06-17T15:23:16.461000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-15": {
+      "path": "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md",
+      "last_verified": "2026-06-28T19:15:35.162313+00:00",
+      "updated_at": "2026-06-17T20:50:58.175000+05:30",
+      "owner": ""
+    },
+    "confluence-589825": {
+      "path": "knowledge/projects/2026-LumaRoute_Product_&_Engineering_Hub.md",
+      "last_verified": "2026-06-28T19:15:36.119791+00:00",
+      "updated_at": "2026-06-17T15:24:39.984000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-16": {
+      "path": "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md",
+      "last_verified": "2026-06-28T19:15:38.294937+00:00",
+      "updated_at": "2026-06-17T20:50:59.410000+05:30",
+      "owner": ""
+    },
+    "confluence-655361": {
+      "path": "knowledge/products/2026-LumaFleet_Company_Overview.md",
+      "last_verified": "2026-06-28T19:15:39.819894+00:00",
+      "updated_at": "2026-06-17T15:22:06.540000+00:00",
+      "owner": ""
+    },
+    "confluence-688129": {
+      "path": "knowledge/topics/architecture/2026-LumaRoute_Software_Architecture.md",
+      "last_verified": "2026-06-28T19:15:42.069177+00:00",
+      "updated_at": "2026-06-17T15:22:07.490000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-17": {
+      "path": "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md",
+      "last_verified": "2026-06-28T19:15:44.671896+00:00",
+      "updated_at": "2026-06-17T20:51:00.843000+05:30",
+      "owner": ""
+    },
+    "confluence-720897": {
+      "path": "knowledge/topics/general/2026-LumaRoute_Jira_and_Confluence_Page_Tree.md",
+      "last_verified": "2026-06-28T19:15:46.259731+00:00",
+      "updated_at": "2026-06-17T15:22:09.414000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-18": {
+      "path": "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md",
+      "last_verified": "2026-06-28T19:15:49.334877+00:00",
+      "updated_at": "2026-06-17T20:51:02.327000+05:30",
+      "owner": ""
+    },
+    "confluence-720913": {
+      "path": "knowledge/processes/2026-Bug_Log_Dataset.md",
+      "last_verified": "2026-06-28T19:15:51.477831+00:00",
+      "updated_at": "2026-06-17T15:22:12.371000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-19": {
+      "path": "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md",
+      "last_verified": "2026-06-28T19:15:52.832455+00:00",
+      "updated_at": "2026-06-17T20:51:03.638000+05:30",
+      "owner": ""
+    },
+    "confluence-720929": {
+      "path": "knowledge/processes/2026-Runbook_Temperature_Alert_Incident.md",
+      "last_verified": "2026-06-28T19:15:55.590271+00:00",
+      "updated_at": "2026-06-17T15:23:20.290000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-20": {
+      "path": "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md",
+      "last_verified": "2026-06-28T19:15:56.537200+00:00",
+      "updated_at": "2026-06-17T20:51:04.889000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-21": {
+      "path": "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md",
+      "last_verified": "2026-06-28T19:15:58.202356+00:00",
+      "updated_at": "2026-06-17T20:51:06.086000+05:30",
+      "owner": ""
+    },
+    "confluence-753665": {
+      "path": "knowledge/projects/2026-Jira_Import_Dataset.md",
+      "last_verified": "2026-06-28T19:16:00.080678+00:00",
+      "updated_at": "2026-06-17T15:22:10.520000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-22": {
+      "path": "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md",
+      "last_verified": "2026-06-28T19:16:03.059324+00:00",
+      "updated_at": "2026-06-17T20:51:07.454000+05:30",
+      "owner": ""
+    },
+    "confluence-786433": {
+      "path": "knowledge/processes/2026-QA_Test_Case_Catalog_Dataset.md",
+      "last_verified": "2026-06-28T19:16:05.383418+00:00",
+      "updated_at": "2026-06-17T15:22:11.443000+00:00",
+      "owner": ""
+    },
+    "confluence-819208": {
+      "path": "knowledge/projects/2026-Sprint_14_Plan.md",
+      "last_verified": "2026-06-28T19:16:09.990619+00:00",
+      "updated_at": "2026-06-17T15:23:12.972000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-23": {
+      "path": "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md",
+      "last_verified": "2026-06-28T19:16:11.384027+00:00",
+      "updated_at": "2026-06-17T20:51:08.926000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-24": {
+      "path": "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md",
+      "last_verified": "2026-06-28T19:16:13.356397+00:00",
+      "updated_at": "2026-06-17T20:51:10.257000+05:30",
+      "owner": ""
+    },
+    "confluence-851969": {
+      "path": "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md",
+      "last_verified": "2026-06-28T19:16:15.301413+00:00",
+      "updated_at": "2026-06-17T15:23:06.463000+00:00",
+      "owner": ""
+    },
+    "confluence-884737": {
+      "path": "knowledge/products/2026-Personas_and_User_Journeys.md",
+      "last_verified": "2026-06-28T19:16:17.141032+00:00",
+      "updated_at": "2026-06-17T15:23:07.329000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-25": {
+      "path": "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md",
+      "last_verified": "2026-06-28T19:16:18.547047+00:00",
+      "updated_at": "2026-06-17T20:51:11.542000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-26": {
+      "path": "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md",
+      "last_verified": "2026-06-28T19:16:21.209345+00:00",
+      "updated_at": "2026-06-17T20:51:12.740000+05:30",
+      "owner": ""
+    },
+    "confluence-884753": {
+      "path": "knowledge/topics/architecture/2026-System_Architecture.md",
+      "last_verified": "2026-06-28T19:16:22.251065+00:00",
+      "updated_at": "2026-06-17T15:23:09.218000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-27": {
+      "path": "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md",
+      "last_verified": "2026-06-28T19:16:24.244794+00:00",
+      "updated_at": "2026-06-17T20:51:13.961000+05:30",
+      "owner": ""
+    },
+    "confluence-917505": {
+      "path": "knowledge/products/2026-Release_Roadmap.md",
+      "last_verified": "2026-06-28T19:16:26.163894+00:00",
+      "updated_at": "2026-06-17T15:23:08.280000+00:00",
+      "owner": ""
+    },
+    "confluence-950273": {
+      "path": "knowledge/processes/2026-Service_Ownership_Matrix.md",
+      "last_verified": "2026-06-28T19:16:27.745006+00:00",
+      "updated_at": "2026-06-17T15:23:10.168000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-28": {
+      "path": "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md",
+      "last_verified": "2026-06-28T19:16:28.588867+00:00",
+      "updated_at": "2026-06-17T20:51:15.317000+05:30",
+      "owner": ""
+    },
+    "confluence-983041": {
+      "path": "knowledge/topics/general/2026-Data_Model_Overview.md",
+      "last_verified": "2026-06-28T19:16:30.854186+00:00",
+      "updated_at": "2026-06-17T15:23:11.931000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-29": {
+      "path": "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md",
+      "last_verified": "2026-06-28T19:16:32.351265+00:00",
+      "updated_at": "2026-06-17T20:51:16.547000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-30": {
+      "path": "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md",
+      "last_verified": "2026-06-28T19:16:34.150092+00:00",
+      "updated_at": "2026-06-17T20:51:17.887000+05:30",
+      "owner": ""
+    },
+    "confluence-1015809": {
+      "path": "knowledge/projects/2026-Sprint_15_Plan.md",
+      "last_verified": "2026-06-28T19:16:35.783752+00:00",
+      "updated_at": "2026-06-17T15:23:15.539000+00:00",
+      "owner": ""
+    },
+    "confluence-1048577": {
+      "path": "knowledge/processes/2026-Test_Case_Catalog.md",
+      "last_verified": "2026-06-28T19:16:37.774900+00:00",
+      "updated_at": "2026-06-17T15:23:18.294000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-31": {
+      "path": "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md",
+      "last_verified": "2026-06-28T19:16:38.707986+00:00",
+      "updated_at": "2026-06-17T20:51:19.333000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-32": {
+      "path": "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md",
+      "last_verified": "2026-06-28T19:16:40.837137+00:00",
+      "updated_at": "2026-06-17T20:51:20.774000+05:30",
+      "owner": ""
+    },
+    "confluence-1081345": {
+      "path": "knowledge/topics/incidents/2026-Observability_Dashboard_Guide.md",
+      "last_verified": "2026-06-28T19:16:42.204662+00:00",
+      "updated_at": "2026-06-17T15:23:21.172000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-33": {
+      "path": "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md",
+      "last_verified": "2026-06-28T19:16:43.848475+00:00",
+      "updated_at": "2026-06-17T20:54:28.998000+05:30",
+      "owner": ""
+    },
+    "confluence-1114113": {
+      "path": "knowledge/processes/2026-Deployment_Checklist.md",
+      "last_verified": "2026-06-28T19:16:45.457359+00:00",
+      "updated_at": "2026-06-17T15:23:22.102000+00:00",
+      "owner": ""
+    },
+    "jira-LRDP-34": {
+      "path": "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md",
+      "last_verified": "2026-06-28T19:16:47.681258+00:00",
+      "updated_at": "2026-06-17T20:54:30.392000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-35": {
+      "path": "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md",
+      "last_verified": "2026-06-28T19:16:49.786244+00:00",
+      "updated_at": "2026-06-17T20:54:31.825000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-36": {
+      "path": "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md",
+      "last_verified": "2026-06-28T19:16:52.076400+00:00",
+      "updated_at": "2026-06-17T20:54:33.680000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-37": {
+      "path": "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md",
+      "last_verified": "2026-06-28T19:16:54.140398+00:00",
+      "updated_at": "2026-06-17T20:54:35.421000+05:30",
+      "owner": ""
+    },
+    "jira-LRDP-38": {
+      "path": "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md",
+      "last_verified": "2026-06-28T19:16:55.928708+00:00",
+      "updated_at": "2026-06-17T20:54:37.142000+05:30",
+      "owner": ""
+    }
+  },
+  "metadata": {
+    "last_rebuilt": "2026-06-28T19:16:55.928708+00:00"
+  }
+}

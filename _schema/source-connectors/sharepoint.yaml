@@ -1,0 +1,3 @@
+# SharePoint connector config
+source: sharepoint
+tenant_id: ""

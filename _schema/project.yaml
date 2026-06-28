@@ -1,0 +1,16 @@
+# Schema for project knowledge units
+type: project
+required_fields:
+  - id
+  - type
+  - title
+  - date
+  - status
+optional_fields:
+  - tags
+  - owner
+  - sources
+  - related
+  - freshness_check
+  - confidence
+statuses: [active, superseded, draft, archived]

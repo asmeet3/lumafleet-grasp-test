@@ -1,0 +1,3 @@
+# Confluence connector config
+source: confluence
+base_url: ""

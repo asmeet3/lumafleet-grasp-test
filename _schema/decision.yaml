@@ -1,0 +1,20 @@
+# Schema for decision knowledge units
+type: decision
+required_fields:
+  - id
+  - type
+  - title
+  - date
+  - status
+optional_fields:
+  - supersedes
+  - superseded_by
+  - tags
+  - stakeholders
+  - owner
+  - sources
+  - related
+  - freshness_check
+  - confidence
+statuses: [active, superseded, draft, archived]
+confidence_levels: [high, medium, low, contested]

@@ -1,0 +1,655 @@
+{
+  "taxonomy": {
+    "confluence": [
+      "knowledge/people/2026-Overview.md",
+      "knowledge/topics/general/2026-Getting_started_in_Confluence.md",
+      "knowledge/topics/general/2026-Software_Development.md",
+      "knowledge/projects/2026-Template_-_Product_requirements.md",
+      "knowledge/decisions/2026-Template_-_Meeting_notes.md",
+      "knowledge/decisions/2026-Template_-_Decision_documentation.md",
+      "knowledge/processes/2026-QA_Strategy.md",
+      "knowledge/processes/2026-Bug_Triage_Log.md",
+      "knowledge/projects/2026-LumaRoute_Sprint_Plan.md",
+      "knowledge/decisions/2026-Sprint_14_Review_&_Retro.md",
+      "knowledge/topics/architecture/2026-API_&_Integration_Overview.md",
+      "knowledge/topics/general/2026-LumaFleet_Engineering_Home.md",
+      "knowledge/decisions/2026-Sprint_15_Review_&_Retro.md",
+      "knowledge/projects/2026-LumaRoute_Product_&_Engineering_Hub.md",
+      "knowledge/products/2026-LumaFleet_Company_Overview.md",
+      "knowledge/topics/architecture/2026-LumaRoute_Software_Architecture.md",
+      "knowledge/topics/general/2026-LumaRoute_Jira_and_Confluence_Page_Tree.md",
+      "knowledge/processes/2026-Bug_Log_Dataset.md",
+      "knowledge/processes/2026-Runbook_Temperature_Alert_Incident.md",
+      "knowledge/projects/2026-Jira_Import_Dataset.md",
+      "knowledge/processes/2026-QA_Test_Case_Catalog_Dataset.md",
+      "knowledge/projects/2026-Sprint_14_Plan.md",
+      "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md",
+      "knowledge/products/2026-Personas_and_User_Journeys.md",
+      "knowledge/topics/architecture/2026-System_Architecture.md",
+      "knowledge/products/2026-Release_Roadmap.md",
+      "knowledge/processes/2026-Service_Ownership_Matrix.md",
+      "knowledge/topics/general/2026-Data_Model_Overview.md",
+      "knowledge/projects/2026-Sprint_15_Plan.md",
+      "knowledge/processes/2026-Test_Case_Catalog.md",
+      "knowledge/topics/incidents/2026-Observability_Dashboard_Guide.md",
+      "knowledge/processes/2026-Deployment_Checklist.md"
+    ],
+    "overview": [
+      "knowledge/people/2026-Overview.md",
+      "knowledge/topics/architecture/2026-API_&_Integration_Overview.md",
+      "knowledge/products/2026-LumaFleet_Company_Overview.md",
+      "knowledge/topics/general/2026-Data_Model_Overview.md"
+    ],
+    "jira": [
+      "knowledge/projects/2026-[LRDP-1]_Route_Optimization_MVP.md",
+      "knowledge/projects/2026-[LRDP-2]_Driver_Mobile_Workflow.md",
+      "knowledge/projects/2026-[LRDP-3]_Temperature_Compliance_Monitoring.md",
+      "knowledge/projects/2026-[LRDP-4]_Customer_ETA_Portal.md",
+      "knowledge/projects/2026-[LRDP-5]_Dispatch_Operations_Dashboard.md",
+      "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md",
+      "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md",
+      "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md",
+      "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md",
+      "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md",
+      "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md",
+      "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md",
+      "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md",
+      "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md",
+      "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md",
+      "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md",
+      "knowledge/topics/general/2026-LumaRoute_Jira_and_Confluence_Page_Tree.md",
+      "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md",
+      "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md",
+      "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md",
+      "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md",
+      "knowledge/projects/2026-Jira_Import_Dataset.md",
+      "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md",
+      "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md",
+      "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md",
+      "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md",
+      "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md",
+      "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md",
+      "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md",
+      "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md",
+      "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md",
+      "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md",
+      "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md",
+      "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md",
+      "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md",
+      "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md",
+      "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md",
+      "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    ],
+    "lrdp": [
+      "knowledge/projects/2026-[LRDP-1]_Route_Optimization_MVP.md",
+      "knowledge/projects/2026-[LRDP-2]_Driver_Mobile_Workflow.md",
+      "knowledge/projects/2026-[LRDP-3]_Temperature_Compliance_Monitoring.md",
+      "knowledge/projects/2026-[LRDP-4]_Customer_ETA_Portal.md",
+      "knowledge/projects/2026-[LRDP-5]_Dispatch_Operations_Dashboard.md",
+      "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md",
+      "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md",
+      "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md",
+      "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md",
+      "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md",
+      "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md",
+      "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md",
+      "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md",
+      "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md",
+      "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md",
+      "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md",
+      "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md",
+      "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md",
+      "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md",
+      "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md",
+      "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md",
+      "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md",
+      "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md",
+      "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md",
+      "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md",
+      "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md",
+      "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md",
+      "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md",
+      "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md",
+      "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md",
+      "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md",
+      "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md",
+      "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md",
+      "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md",
+      "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md",
+      "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    ],
+    "route": [
+      "knowledge/projects/2026-[LRDP-1]_Route_Optimization_MVP.md",
+      "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md",
+      "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md",
+      "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md",
+      "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md",
+      "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md",
+      "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md",
+      "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md"
+    ],
+    "optimization": [
+      "knowledge/projects/2026-[LRDP-1]_Route_Optimization_MVP.md"
+    ],
+    "mvp": [
+      "knowledge/projects/2026-[LRDP-1]_Route_Optimization_MVP.md"
+    ],
+    "driver": [
+      "knowledge/projects/2026-[LRDP-2]_Driver_Mobile_Workflow.md",
+      "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md"
+    ],
+    "mobile": [
+      "knowledge/projects/2026-[LRDP-2]_Driver_Mobile_Workflow.md",
+      "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md"
+    ],
+    "workflow": [
+      "knowledge/projects/2026-[LRDP-2]_Driver_Mobile_Workflow.md"
+    ],
+    "getting": [
+      "knowledge/topics/general/2026-Getting_started_in_Confluence.md"
+    ],
+    "started": [
+      "knowledge/topics/general/2026-Getting_started_in_Confluence.md"
+    ],
+    "temperature": [
+      "knowledge/projects/2026-[LRDP-3]_Temperature_Compliance_Monitoring.md",
+      "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md",
+      "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md",
+      "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md",
+      "knowledge/processes/2026-Runbook_Temperature_Alert_Incident.md",
+      "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md",
+      "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md"
+    ],
+    "compliance": [
+      "knowledge/projects/2026-[LRDP-3]_Temperature_Compliance_Monitoring.md",
+      "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md",
+      "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    ],
+    "monitoring": [
+      "knowledge/projects/2026-[LRDP-3]_Temperature_Compliance_Monitoring.md"
+    ],
+    "software": [
+      "knowledge/topics/general/2026-Software_Development.md",
+      "knowledge/topics/architecture/2026-LumaRoute_Software_Architecture.md"
+    ],
+    "development": [
+      "knowledge/topics/general/2026-Software_Development.md"
+    ],
+    "template": [
+      "knowledge/projects/2026-Template_-_Product_requirements.md",
+      "knowledge/decisions/2026-Template_-_Meeting_notes.md",
+      "knowledge/decisions/2026-Template_-_Decision_documentation.md"
+    ],
+    "product": [
+      "knowledge/projects/2026-Template_-_Product_requirements.md",
+      "knowledge/projects/2026-LumaRoute_Product_&_Engineering_Hub.md",
+      "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md"
+    ],
+    "requirements": [
+      "knowledge/projects/2026-Template_-_Product_requirements.md"
+    ],
+    "customer": [
+      "knowledge/projects/2026-[LRDP-4]_Customer_ETA_Portal.md",
+      "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md",
+      "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md"
+    ],
+    "eta": [
+      "knowledge/projects/2026-[LRDP-4]_Customer_ETA_Portal.md",
+      "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md",
+      "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md",
+      "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md"
+    ],
+    "portal": [
+      "knowledge/projects/2026-[LRDP-4]_Customer_ETA_Portal.md",
+      "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md",
+      "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md"
+    ],
+    "meeting": [
+      "knowledge/decisions/2026-Template_-_Meeting_notes.md"
+    ],
+    "notes": [
+      "knowledge/decisions/2026-Template_-_Meeting_notes.md"
+    ],
+    "dispatch": [
+      "knowledge/projects/2026-[LRDP-5]_Dispatch_Operations_Dashboard.md"
+    ],
+    "operations": [
+      "knowledge/projects/2026-[LRDP-5]_Dispatch_Operations_Dashboard.md"
+    ],
+    "dashboard": [
+      "knowledge/projects/2026-[LRDP-5]_Dispatch_Operations_Dashboard.md",
+      "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md",
+      "knowledge/topics/incidents/2026-Observability_Dashboard_Guide.md"
+    ],
+    "import": [
+      "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md",
+      "knowledge/projects/2026-Jira_Import_Dataset.md"
+    ],
+    "daily": [
+      "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md"
+    ],
+    "manifest": [
+      "knowledge/projects/2026-[LRDP-6]_Import_daily_route_manifest_with_shipment_temperature_requirements.md"
+    ],
+    "decision": [
+      "knowledge/decisions/2026-Template_-_Decision_documentation.md"
+    ],
+    "documentation": [
+      "knowledge/decisions/2026-Template_-_Decision_documentation.md"
+    ],
+    "calculate": [
+      "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md"
+    ],
+    "score": [
+      "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md"
+    ],
+    "using": [
+      "knowledge/projects/2026-[LRDP-7]_Calculate_route_score_using_service_windows_and_cold-chain_risk.md"
+    ],
+    "compare": [
+      "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md"
+    ],
+    "optimized": [
+      "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md"
+    ],
+    "dispatcher": [
+      "knowledge/projects/2026-[LRDP-8]_Compare_optimized_route_with_dispatcher_manual_edits.md",
+      "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md"
+    ],
+    "strategy": [
+      "knowledge/processes/2026-QA_Strategy.md"
+    ],
+    "bug": [
+      "knowledge/processes/2026-Bug_Triage_Log.md",
+      "knowledge/processes/2026-Bug_Log_Dataset.md"
+    ],
+    "triage": [
+      "knowledge/processes/2026-Bug_Triage_Log.md"
+    ],
+    "log": [
+      "knowledge/processes/2026-Bug_Triage_Log.md",
+      "knowledge/processes/2026-Bug_Log_Dataset.md"
+    ],
+    "display": [
+      "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md",
+      "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md"
+    ],
+    "today": [
+      "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md"
+    ],
+    "stop": [
+      "knowledge/projects/2026-[LRDP-9]_Display_today's_route_and_stop_checklist_in_driver_mobile_app.md",
+      "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md"
+    ],
+    "capture": [
+      "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md"
+    ],
+    "barcode": [
+      "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md",
+      "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md"
+    ],
+    "scan": [
+      "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md",
+      "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md"
+    ],
+    "proof": [
+      "knowledge/projects/2026-[LRDP-10]_Capture_barcode_scan_proof_of_delivery.md"
+    ],
+    "lumaroute": [
+      "knowledge/projects/2026-LumaRoute_Sprint_Plan.md",
+      "knowledge/projects/2026-LumaRoute_Product_&_Engineering_Hub.md",
+      "knowledge/topics/architecture/2026-LumaRoute_Software_Architecture.md",
+      "knowledge/topics/general/2026-LumaRoute_Jira_and_Confluence_Page_Tree.md"
+    ],
+    "sprint": [
+      "knowledge/projects/2026-LumaRoute_Sprint_Plan.md",
+      "knowledge/decisions/2026-Sprint_14_Review_&_Retro.md",
+      "knowledge/decisions/2026-Sprint_15_Review_&_Retro.md",
+      "knowledge/projects/2026-Sprint_14_Plan.md",
+      "knowledge/projects/2026-Sprint_15_Plan.md"
+    ],
+    "plan": [
+      "knowledge/projects/2026-LumaRoute_Sprint_Plan.md",
+      "knowledge/projects/2026-Sprint_14_Plan.md",
+      "knowledge/projects/2026-Sprint_15_Plan.md"
+    ],
+    "review": [
+      "knowledge/decisions/2026-Sprint_14_Review_&_Retro.md",
+      "knowledge/decisions/2026-Sprint_15_Review_&_Retro.md"
+    ],
+    "retro": [
+      "knowledge/decisions/2026-Sprint_14_Review_&_Retro.md",
+      "knowledge/decisions/2026-Sprint_15_Review_&_Retro.md"
+    ],
+    "sync": [
+      "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md",
+      "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md",
+      "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md"
+    ],
+    "task": [
+      "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md",
+      "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md"
+    ],
+    "updates": [
+      "knowledge/projects/2026-[LRDP-11]_Sync_driver_task_updates_after_offline_period.md"
+    ],
+    "api": [
+      "knowledge/topics/architecture/2026-API_&_Integration_Overview.md",
+      "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md"
+    ],
+    "integration": [
+      "knowledge/topics/architecture/2026-API_&_Integration_Overview.md"
+    ],
+    "add": [
+      "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md",
+      "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md",
+      "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md",
+      "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md",
+      "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md",
+      "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md"
+    ],
+    "status": [
+      "knowledge/projects/2026-[LRDP-12]_Add_mobile_sync_status_indicator.md"
+    ],
+    "lumafleet": [
+      "knowledge/topics/general/2026-LumaFleet_Engineering_Home.md",
+      "knowledge/products/2026-LumaFleet_Company_Overview.md"
+    ],
+    "engineering": [
+      "knowledge/topics/general/2026-LumaFleet_Engineering_Home.md",
+      "knowledge/projects/2026-LumaRoute_Product_&_Engineering_Hub.md"
+    ],
+    "home": [
+      "knowledge/topics/general/2026-LumaFleet_Engineering_Home.md"
+    ],
+    "create": [
+      "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md",
+      "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md",
+      "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md"
+    ],
+    "local": [
+      "knowledge/projects/2026-[LRDP-13]_Create_stop_task_local_persistence_model.md"
+    ],
+    "tenant": [
+      "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md"
+    ],
+    "aware": [
+      "knowledge/projects/2026-[LRDP-14]_Add_tenant-aware_API_contract_tests.md"
+    ],
+    "ingest": [
+      "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md"
+    ],
+    "sensor": [
+      "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md"
+    ],
+    "readings": [
+      "knowledge/projects/2026-[LRDP-15]_Ingest_temperature_sensor_readings_for_active_routes.md"
+    ],
+    "hub": [
+      "knowledge/projects/2026-LumaRoute_Product_&_Engineering_Hub.md"
+    ],
+    "show": [
+      "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md"
+    ],
+    "timeline": [
+      "knowledge/projects/2026-[LRDP-16]_Show_route_temperature_timeline_in_dispatch_dashboard.md",
+      "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md"
+    ],
+    "company": [
+      "knowledge/products/2026-LumaFleet_Company_Overview.md"
+    ],
+    "architecture": [
+      "knowledge/topics/architecture/2026-LumaRoute_Software_Architecture.md",
+      "knowledge/topics/architecture/2026-System_Architecture.md"
+    ],
+    "excursion": [
+      "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md"
+    ],
+    "alert": [
+      "knowledge/projects/2026-[LRDP-17]_Create_temperature_excursion_alert_with_acknowledgement_workflow.md",
+      "knowledge/processes/2026-Runbook_Temperature_Alert_Incident.md",
+      "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md"
+    ],
+    "page": [
+      "knowledge/topics/general/2026-LumaRoute_Jira_and_Confluence_Page_Tree.md"
+    ],
+    "tree": [
+      "knowledge/topics/general/2026-LumaRoute_Jira_and_Confluence_Page_Tree.md"
+    ],
+    "telemetry": [
+      "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md",
+      "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md",
+      "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md"
+    ],
+    "idempotency": [
+      "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md"
+    ],
+    "key": [
+      "knowledge/projects/2026-[LRDP-18]_Add_telemetry_idempotency_key_handling.md"
+    ],
+    "dataset": [
+      "knowledge/processes/2026-Bug_Log_Dataset.md",
+      "knowledge/projects/2026-Jira_Import_Dataset.md",
+      "knowledge/processes/2026-QA_Test_Case_Catalog_Dataset.md"
+    ],
+    "generate": [
+      "knowledge/projects/2026-[LRDP-19]_Generate_customer_ETA_portal_link_per_stop.md"
+    ],
+    "runbook": [
+      "knowledge/processes/2026-Runbook_Temperature_Alert_Incident.md"
+    ],
+    "incident": [
+      "knowledge/processes/2026-Runbook_Temperature_Alert_Incident.md"
+    ],
+    "update": [
+      "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md"
+    ],
+    "when": [
+      "knowledge/projects/2026-[LRDP-20]_Update_ETA_when_route_delay_exceeds_threshold.md"
+    ],
+    "send": [
+      "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md"
+    ],
+    "delay": [
+      "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md",
+      "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md"
+    ],
+    "notification": [
+      "knowledge/projects/2026-[LRDP-21]_Send_customer_delay_notification_with_reason_code.md",
+      "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md"
+    ],
+    "active": [
+      "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md"
+    ],
+    "health": [
+      "knowledge/projects/2026-[LRDP-22]_Display_active_route_health_cards_on_dispatch_dashboard.md",
+      "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md"
+    ],
+    "test": [
+      "knowledge/processes/2026-QA_Test_Case_Catalog_Dataset.md",
+      "knowledge/processes/2026-Test_Case_Catalog.md"
+    ],
+    "case": [
+      "knowledge/processes/2026-QA_Test_Case_Catalog_Dataset.md",
+      "knowledge/processes/2026-Test_Case_Catalog.md"
+    ],
+    "catalog": [
+      "knowledge/processes/2026-QA_Test_Case_Catalog_Dataset.md",
+      "knowledge/processes/2026-Test_Case_Catalog.md"
+    ],
+    "exception": [
+      "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md",
+      "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md",
+      "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md"
+    ],
+    "queue": [
+      "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md",
+      "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md"
+    ],
+    "filters": [
+      "knowledge/projects/2026-[LRDP-23]_Add_exception_queue_filters_for_severity_and_owner.md"
+    ],
+    "assign": [
+      "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md"
+    ],
+    "record": [
+      "knowledge/projects/2026-[LRDP-24]_Assign_exception_to_dispatcher_and_record_resolution_note.md"
+    ],
+    "vision": [
+      "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md"
+    ],
+    "north": [
+      "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md"
+    ],
+    "star": [
+      "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md"
+    ],
+    "metrics": [
+      "knowledge/products/2026-Product_Vision_&_North_Star_Metrics.md"
+    ],
+    "personas": [
+      "knowledge/products/2026-Personas_and_User_Journeys.md"
+    ],
+    "user": [
+      "knowledge/products/2026-Personas_and_User_Journeys.md"
+    ],
+    "journeys": [
+      "knowledge/products/2026-Personas_and_User_Journeys.md"
+    ],
+    "synthetic": [
+      "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md"
+    ],
+    "seed": [
+      "knowledge/processes/2026-[LRDP-25]_Add_synthetic_telemetry_seed_data_for_QA.md"
+    ],
+    "observability": [
+      "knowledge/projects/2026-[LRDP-26]_Create_observability_dashboard_for_telemetry_freshness.md",
+      "knowledge/topics/incidents/2026-Observability_Dashboard_Guide.md"
+    ],
+    "system": [
+      "knowledge/topics/architecture/2026-System_Architecture.md"
+    ],
+    "role": [
+      "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md"
+    ],
+    "permission": [
+      "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md"
+    ],
+    "matrix": [
+      "knowledge/projects/2026-[LRDP-27]_Add_role_permission_matrix_for_dispatch_and_compliance_users.md",
+      "knowledge/processes/2026-Service_Ownership_Matrix.md"
+    ],
+    "release": [
+      "knowledge/products/2026-Release_Roadmap.md"
+    ],
+    "roadmap": [
+      "knowledge/products/2026-Release_Roadmap.md"
+    ],
+    "service": [
+      "knowledge/processes/2026-Service_Ownership_Matrix.md"
+    ],
+    "ownership": [
+      "knowledge/processes/2026-Service_Ownership_Matrix.md"
+    ],
+    "remains": [
+      "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md"
+    ],
+    "open": [
+      "knowledge/processes/2026-[LRDP-28]_Temperature_alert_remains_open_after_acknowledgement_refresh.md"
+    ],
+    "data": [
+      "knowledge/topics/general/2026-Data_Model_Overview.md"
+    ],
+    "model": [
+      "knowledge/topics/general/2026-Data_Model_Overview.md"
+    ],
+    "retry": [
+      "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md"
+    ],
+    "duplicates": [
+      "knowledge/processes/2026-[LRDP-29]_Delay_notification_retry_duplicates_SMS_after_provider_timeout.md"
+    ],
+    "export": [
+      "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md",
+      "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    ],
+    "report": [
+      "knowledge/projects/2026-[LRDP-30]_Export_route_compliance_report_as_CSV.md"
+    ],
+    "card": [
+      "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md"
+    ],
+    "shows": [
+      "knowledge/processes/2026-[LRDP-31]_Route_health_card_shows_stale_ETA_after_manual_route_edit.md"
+    ],
+    "accepts": [
+      "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md"
+    ],
+    "lowercase": [
+      "knowledge/processes/2026-[LRDP-32]_Barcode_scan_accepts_lowercase_shipment_prefix_for_another_tenant.md"
+    ],
+    "guide": [
+      "knowledge/topics/incidents/2026-Observability_Dashboard_Guide.md"
+    ],
+    "renders": [
+      "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md"
+    ],
+    "points": [
+      "knowledge/processes/2026-[LRDP-33]_Temperature_timeline_renders_points_one_hour_early_during_daylight_savings_transition.md"
+    ],
+    "deployment": [
+      "knowledge/processes/2026-Deployment_Checklist.md"
+    ],
+    "checklist": [
+      "knowledge/processes/2026-Deployment_Checklist.md"
+    ],
+    "owner": [
+      "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md"
+    ],
+    "filter": [
+      "knowledge/processes/2026-[LRDP-34]_Exception_queue_owner_filter_clears_when_browser_back_button_is_used.md"
+    ],
+    "offline": [
+      "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md"
+    ],
+    "retries": [
+      "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md"
+    ],
+    "indefinitely": [
+      "knowledge/processes/2026-[LRDP-35]_Offline_sync_retries_indefinitely_after_a_409_conflict.md"
+    ],
+    "resolution": [
+      "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md"
+    ],
+    "note": [
+      "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md"
+    ],
+    "allows": [
+      "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md"
+    ],
+    "only": [
+      "knowledge/processes/2026-[LRDP-36]_Resolution_note_allows_only_120_characters_in_UI_despite_API_supporting_500.md"
+    ],
+    "expired": [
+      "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md"
+    ],
+    "token": [
+      "knowledge/processes/2026-[LRDP-37]_Expired_ETA_portal_token_displays_generic_500_error_page.md"
+    ],
+    "omits": [
+      "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    ],
+    "acknowledgement": [
+      "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md"
+    ]
+  },
+  "metadata": {
+    "last_rebuilt": "2026-06-28T19:16:55.912927+00:00"
+  }
+}

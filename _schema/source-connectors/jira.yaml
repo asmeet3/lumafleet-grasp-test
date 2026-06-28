@@ -1,0 +1,3 @@
+# Jira connector config
+source: jira
+base_url: ""

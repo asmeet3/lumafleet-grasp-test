@@ -1,0 +1,11 @@
+# Schema for expertise profiles
+type: person
+required_fields:
+  - id
+  - type
+  - title
+  - name
+optional_fields:
+  - expertise
+  - team
+  - contact
