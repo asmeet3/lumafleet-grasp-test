@@ -489,10 +489,17 @@
       "path": "knowledge/processes/2026-[LRDP-38]_Compliance_export_omits_acknowledgement_user_display_name.md",
       "source": "jira",
       "updated_at": "2026-06-17T20:54:37.142000+05:30"
+    },
+    {
+      "id": "jira-LRDP-39",
+      "title": "[LRDP-39] asdfghjkl",
+      "path": "knowledge/processes/2026-[LRDP-39]_asdfghjkl.md",
+      "source": "jira",
+      "updated_at": "2026-06-29T00:57:26.464000+05:30"
     }
   ],
   "edges": [],
   "metadata": {
-    "last_rebuilt": "2026-06-28T19:16:55.896806+00:00"
+    "last_rebuilt": "2026-06-28T19:27:43.950051+00:00"
   }
 }
